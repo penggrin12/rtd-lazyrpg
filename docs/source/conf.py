@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LazyRPG'
+copyright = '2022, Penggrin'
+author = 'Penggrin'
 
 release = '0.1'
 version = '0.1.0'
